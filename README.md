@@ -5,7 +5,7 @@
 - 📫 How to reach me https://www.linkedin.com/in/yann-cardozo-9b056aa5/
 
  <div>
-  <a href="https://github.com/carlosdealmeida">
+  <a href="https://github.com/YannCardozo">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YannCardozo&show_icons=true&theme=flag-india&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YannCardozo&layout=compact&langs_count=10&theme=flag-india"/>
   </a>
