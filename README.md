@@ -6,8 +6,8 @@
 
  <div>
   <a href="https://github.com/carlosdealmeida">
-    <img height="180em" src="https://github-readme-stats-YannCardozo.vercel.app/api?username=YannCardozo&show_icons=true&theme=flag-india&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-YannCardozo.vercel.app/api/top-langs/?username=YannCardozo&layout=compact&langs_count=10&theme=flag-india"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YannCardozo&show_icons=true&theme=flag-india&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YannCardozo&layout=compact&langs_count=10&theme=flag-india"/>
   </a>
 </div>
 
